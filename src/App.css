@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #2e343f;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  box-shadow: 10px 0px 10px #1b1e24;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-boxes {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-box {
+  display: flex;
+  margin: 15px;
+  padding: 0px 30px 40px 30px;
+  background-color: #353d4d;
+  box-shadow: 5px 5px 10px #1b1e24;
+}
