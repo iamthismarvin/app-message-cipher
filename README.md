@@ -1,8 +1,11 @@
-# message-cipher-react
+# app-message-cipher
 
 ### Description
 
-A simple message cipher app created with React. Input a message and a password, get an encrypted message. Input the encrypted message and correct password, get the decrypted message. [DEMO](https://reverent-albattani-e22f60.netlify.com/)
+A simple message cipher app created with React. Input a message and a password, get an encrypted message. Input the encrypted message and correct password, get the decrypted message. 
+
+### DEMO
+[DEMO](https://reverent-albattani-e22f60.netlify.com/)
 
 ### Instructions
 
